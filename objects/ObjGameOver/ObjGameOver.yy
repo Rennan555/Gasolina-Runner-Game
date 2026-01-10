@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"ObjWall",
+  "%Name":"ObjGameOver",
   "eventList":[],
   "managed":true,
-  "name":"ObjWall",
+  "name":"ObjGameOver",
   "overriddenProperties":[],
   "parent":{
-    "name":"Props",
-    "path":"folders/Objects/Props.yy",
+    "name":"GUI",
+    "path":"folders/Objects/GUI.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"SprPhWall",
-    "path":"sprites/SprPhWall/SprPhWall.yy",
+    "name":"SprGameOver",
+    "path":"sprites/SprGameOver/SprGameOver.yy",
   },
   "spriteMaskId":null,
   "visible":true,
