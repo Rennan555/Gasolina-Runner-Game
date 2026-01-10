@@ -6,8 +6,8 @@
   "name":"ObjWall",
   "overriddenProperties":[],
   "parent":{
-    "name":"Player",
-    "path":"folders/Objects/Player.yy",
+    "name":"Assets",
+    "path":"folders/Objects/Assets.yy",
   },
   "parentObjectId":null,
   "persistent":false,
