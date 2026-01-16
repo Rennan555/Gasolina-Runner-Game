@@ -6,4 +6,4 @@ key_left	= keyboard_check(vk_left) || keyboard_check(ord("A"))
 move_x = key_right - key_left
 move_y = key_down - key_up
 
-move_and_collide(move_x * x_speed, move_y * y_speed, ObjWall)
+move_and_collide(move_x * x_speed, move_y * y_speed, ObjWall);

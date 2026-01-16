@@ -39,6 +39,7 @@
     {"id":{"name":"ObjWall","path":"objects/ObjWall/ObjWall.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"RoomUI","path":"roomui/RoomUI/RoomUI.yy",},},
+    {"id":{"name":"SprFuelBar","path":"sprites/SprFuelBar/SprFuelBar.yy",},},
     {"id":{"name":"SprGameOver","path":"sprites/SprGameOver/SprGameOver.yy",},},
     {"id":{"name":"SprPhEnemy","path":"sprites/SprPhEnemy/SprPhEnemy.yy",},},
     {"id":{"name":"SprPhEnemyBasic","path":"sprites/SprPhEnemyBasic/SprPhEnemyBasic.yy",},},
