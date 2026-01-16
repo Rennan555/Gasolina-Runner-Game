@@ -1,2 +1,2 @@
-x_speed = 1
-y_speed = 3
+x_speed = -5
+y_speed = 1
