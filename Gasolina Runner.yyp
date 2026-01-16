@@ -31,6 +31,7 @@
   "resources":[
     {"id":{"name":"ObjEnemy","path":"objects/ObjEnemy/ObjEnemy.yy",},},
     {"id":{"name":"ObjEnemyBasic","path":"objects/ObjEnemyBasic/ObjEnemyBasic.yy",},},
+    {"id":{"name":"ObjEnemyWander","path":"objects/ObjEnemyWander/ObjEnemyWander.yy",},},
     {"id":{"name":"ObjGameOver","path":"objects/ObjGameOver/ObjGameOver.yy",},},
     {"id":{"name":"ObjGuiManager","path":"objects/ObjGuiManager/ObjGuiManager.yy",},},
     {"id":{"name":"ObjPlayer","path":"objects/ObjPlayer/ObjPlayer.yy",},},
@@ -41,6 +42,7 @@
     {"id":{"name":"SprGameOver","path":"sprites/SprGameOver/SprGameOver.yy",},},
     {"id":{"name":"SprPhEnemy","path":"sprites/SprPhEnemy/SprPhEnemy.yy",},},
     {"id":{"name":"SprPhEnemyBasic","path":"sprites/SprPhEnemyBasic/SprPhEnemyBasic.yy",},},
+    {"id":{"name":"SprPhEnemyWander","path":"sprites/SprPhEnemyWander/SprPhEnemyWander.yy",},},
     {"id":{"name":"SprPhPlayer","path":"sprites/SprPhPlayer/SprPhPlayer.yy",},},
     {"id":{"name":"SprPhWall","path":"sprites/SprPhWall/SprPhWall.yy",},},
   ],
