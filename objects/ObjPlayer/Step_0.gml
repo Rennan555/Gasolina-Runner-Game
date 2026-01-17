@@ -9,8 +9,11 @@ move_y = key_down - key_up
 
 move_and_collide(move_x * x_speed, move_y * y_speed, ObjWall);
 
+// Gasto de combustível
+global.hp -= fuel_spend;
+
 // Morte
-if(global.hp == 0) {
+if(global.hp <= 0) {
 	instance_destroy();
 	global.player_dead = true;
 }

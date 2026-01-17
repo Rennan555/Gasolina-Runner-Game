@@ -1,6 +1,6 @@
 // Coordenadas de spawn
-x_spawn = room_width + 10;					// Posição X do spawn
-y_spawn = random_range(0, room_height);		// Posição Y do spawn
+x_spawn = room_width + 10;
+y_spawn = random_range(spawn_vertical_padding, room_height - spawn_vertical_padding);
 
 // Criação dos inimigos
 selected_enemy = enemy_options[random_range(.001, array_length(enemy_options) - .001)];

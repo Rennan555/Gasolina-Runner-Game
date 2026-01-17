@@ -13,3 +13,4 @@ move_y = 0;
 // Variáveis de combustível
 global.hp = 200;
 global.max_hp = global.hp;
+fuel_spend = .1;
