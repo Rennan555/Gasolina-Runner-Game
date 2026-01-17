@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"SprPhEnemyWander",
-    "path":"sprites/SprPhEnemyWander/SprPhEnemyWander.yy",
+    "name":"SprEnemyWander",
+    "path":"sprites/SprEnemyWander/SprEnemyWander.yy",
   },
   "spriteMaskId":null,
   "visible":true,

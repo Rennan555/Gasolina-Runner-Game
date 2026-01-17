@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"SprPhEnemyBasic",
-    "path":"sprites/SprPhEnemyBasic/SprPhEnemyBasic.yy",
+    "name":"SprEnemyBasic",
+    "path":"sprites/SprEnemyBasic/SprEnemyBasic.yy",
   },
   "spriteMaskId":null,
   "visible":true,

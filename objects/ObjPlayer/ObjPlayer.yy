@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"SprPhPlayer",
-    "path":"sprites/SprPhPlayer/SprPhPlayer.yy",
+    "name":"SprPlayer",
+    "path":"sprites/SprPlayer/SprPlayer.yy",
   },
   "spriteMaskId":null,
   "visible":true,
