@@ -67,6 +67,7 @@
     {"id":{"name":"SprPhPlayer","path":"sprites/SprPhPlayer/SprPhPlayer.yy",},},
     {"id":{"name":"SprPhWall","path":"sprites/SprPhWall/SprPhWall.yy",},},
     {"id":{"name":"SprPlayer","path":"sprites/SprPlayer/SprPlayer.yy",},},
+    {"id":{"name":"SptTitleScreen","path":"sprites/SptTitleScreen/SptTitleScreen.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
