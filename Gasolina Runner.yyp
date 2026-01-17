@@ -38,6 +38,7 @@
   "name":"Gasolina Runner",
   "resources":[
     {"id":{"name":"FontBasic","path":"fonts/FontBasic/FontBasic.yy",},},
+    {"id":{"name":"ObjButton","path":"objects/ObjButton/ObjButton.yy",},},
     {"id":{"name":"ObjEnemy","path":"objects/ObjEnemy/ObjEnemy.yy",},},
     {"id":{"name":"ObjEnemyBasic","path":"objects/ObjEnemyBasic/ObjEnemyBasic.yy",},},
     {"id":{"name":"ObjEnemyWander","path":"objects/ObjEnemyWander/ObjEnemyWander.yy",},},

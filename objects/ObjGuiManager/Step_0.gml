@@ -4,3 +4,5 @@ if(global.player_dead and alarm[0] <= 0){
 }
 
 if(game_over_restart and keyboard_check(vk_anykey)) room_restart();
+
+layer_set_visible(menu_layer, menu_show);
