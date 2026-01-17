@@ -40,6 +40,7 @@
     {"id":{"name":"ObjGameOver","path":"objects/ObjGameOver/ObjGameOver.yy",},},
     {"id":{"name":"ObjGuiManager","path":"objects/ObjGuiManager/ObjGuiManager.yy",},},
     {"id":{"name":"ObjPlayer","path":"objects/ObjPlayer/ObjPlayer.yy",},},
+    {"id":{"name":"ObjScore","path":"objects/ObjScore/ObjScore.yy",},},
     {"id":{"name":"ObjSpawner","path":"objects/ObjSpawner/ObjSpawner.yy",},},
     {"id":{"name":"ObjWall","path":"objects/ObjWall/ObjWall.yy",},},
     {"id":{"name":"Room_Gameplay","path":"rooms/Room_Gameplay/Room_Gameplay.yy",},},
